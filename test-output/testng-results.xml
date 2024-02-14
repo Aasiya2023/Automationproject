@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-14T21:02:40 GMT" name="Default suite" finished-at="2024-02-14T21:04:22 GMT" duration-ms="101684">
+    <groups>
+    </groups>
+    <test started-at="2024-02-14T21:02:40 GMT" name="Default test" finished-at="2024-02-14T21:04:22 GMT" duration-ms="101684">
+      <class name="Testpkg.Shopperstoptest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Testpkg.Shopperstoptest@6069db50]" started-at="2024-02-14T21:02:40 GMT" name="setUp" finished-at="2024-02-14T21:03:08 GMT" duration-ms="28138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test()[pri:0, instance:Testpkg.Shopperstoptest@6069db50]" started-at="2024-02-14T21:03:09 GMT" name="test" finished-at="2024-02-14T21:04:22 GMT" duration-ms="73394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- Testpkg.Shopperstoptest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
